@@ -1,5 +1,6 @@
 # Brief Overview of Industrial Copper Modeling Dataset:
-
+![Screenshot (276)](https://github.com/Lavan1999/Project-8_MovieReccommendationSystem/assets/152668558/73212b27-ce48-43fc-8558-6a14d26715b8)
+![Screenshot (277)](https://github.com/Lavan1999/Project-8_MovieReccommendationSystem/assets/152668558/ea8d7989-929e-4656-81c2-7d9e209743c0)
 ## Dataset Description:
 - The dataset pertains to industrial copper production and includes various attributes related to copper mining, refining, and utilization.
 - It comprises both numerical and categorical variables, such as production volume, copper grade, mining location, refining method, etc.
